@@ -1,4 +1,4 @@
-# WorkTimeTracker
+# Work Time Tracker
 # Author: Le Duy An Tran
 ![Login_Register](https://user-images.githubusercontent.com/114903308/203518102-3aae9d1f-f426-4e8e-a4c6-905a5f733dd6.png)
 ![Register](https://user-images.githubusercontent.com/114903308/203518118-c7c9770b-bae2-44cc-99ad-8cbbf1ae4b4f.png)
